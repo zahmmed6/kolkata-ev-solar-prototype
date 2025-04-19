@@ -39,7 +39,7 @@ This Minetest prototype simulates the deployment of high-capacity electric vehic
 
 2. Clone this repository:
    ```
-   git clone https://github.com/yourusername/kolkata-ev-solar-prototype.git
+   git clone https://github.com/zahmmed6/kolkata-ev-solar-prototype.git
    ```
 
 3. Copy the world folder to your Minetest worlds directory:
